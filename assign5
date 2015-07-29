@@ -1,0 +1,9 @@
+git init
+
+git add
+
+git commit -m “changes” 
+
+git remote add origin https://github.com/wisertown/assign4.html
+
+git push
